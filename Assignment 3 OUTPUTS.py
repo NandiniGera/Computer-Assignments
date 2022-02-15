@@ -93,4 +93,4 @@ A new set of all Integers in the 'range 1 to 10' that are 'not in Set1' is: {8, 
 
 Q.8(e)
 
-A new set of all Integers in the range 1 to 10 that are not in Set1,Set2 and Set3. {7}
+A new set of all Integers in the range 1 to 10 that are not in Set1,Set2 and Set3. {7, 10}
