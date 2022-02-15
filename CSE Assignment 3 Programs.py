@@ -1,5 +1,6 @@
 #Question1 
 s=input("Enter a string: ")
+s=s.lower() #converts the input string in lower case
 d={} #initialising a dictionary
 if " " in s:
     words=s.split(" ") #Splits the words in the string entered into a list
