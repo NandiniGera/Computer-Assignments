@@ -21,7 +21,7 @@ Invalid month entered
 Enter the month again
 Enter the month12
 Enter the date31
-NEXT DATE IS: 1 , 1 , 2023
+NEXT DATE IS: 1 / 1 / 2023
 
 ==== RESTART: C:/Users/user/AppData/Local/Programs/Python/Python310/a3p3.py ====
 Enter the numbers1 2 3
