@@ -2,9 +2,9 @@ Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (
 Type "help", "copyright", "credits" or "license()" for more information.
 
 = RESTART: C:/Users/user/AppData/Local/Programs/Python/Python310/a3p1 finallll.py
-Enter a string: Nandini
+Enter a string: nandini
 No. of occurences of each character in the string entered is:
- {'N': 1, 'a': 1, 'n': 2, 'd': 1, 'i': 2}
+ {'a': 1, 'n': 3, 'd': 1, 'i': 2}
 
 = RESTART: C:/Users/user/AppData/Local/Programs/Python/Python310/a3p1 finallll.py
 Enter a string: she is a good good girl
