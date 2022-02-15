@@ -106,7 +106,7 @@ if( month in M3):
 
         
 
-print("NEXT DATE IS:",nextdate,",",month2,",",year2)
+print("NEXT DATE IS:",nextdate,"/",month2,"/",year2)
 
 
 #Question3
