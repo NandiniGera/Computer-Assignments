@@ -133,8 +133,10 @@ print("-------------------------------------------------------------------------
 print("Question6")
 #input word by first friend:
 word1=str(input('Enter word: '))
+word1=word1.lower()     #converts the input string into lower case 
 #inputting meaningfull word with same letters by second friend 
 word2=str(input('Enter meaningfull word for friendship test!: '))
+word2=word2.lower()
 #initialising dictionary
 def count_dict(word1):
     count = {}
